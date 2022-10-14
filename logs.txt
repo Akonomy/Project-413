@@ -1,0 +1,838 @@
+
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+4
+introduceti cheia de acces pt a deschide bancomatul3
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+4
+introduceti cheia de acces pt a deschide bancomatul
+1
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+3
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+4
+introduceti cheia de acces pt a deschide bancomatul
+5
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+6
+invalid
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+17-05-2022  13:56
+
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  568 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  568 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  568 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 125, in <module>
+    acces.open()
+AttributeError: '_io.TextIOWrapper' object has no attribute 'open'
+>>> %Run mainApp.py
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 130
+    takeKey=int(input("Cati bani doriti sa retrageti?(multipli de 10))
+                                                                     ^
+SyntaxError: EOL while scanning string literal
+>>> %Run mainApp.py
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 133
+    elif option=="3":
+       ^
+SyntaxError: invalid syntax
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  568 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)600
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+3
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)40
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)700
+Nu s-a putut efectua retragerea
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  568 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+270
+Ati primit :
+ 1 bacnote de 200
+0 bacnote de 100
+1 bacnote de 50
+2 bacnote de 10
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+70
+Ati primit :
+ 0 bacnote de 200
+0 bacnote de 100
+1 bacnote de 50
+2 bacnote de 10
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  228 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+220
+Ati primit :
+ 1 bacnote de 200
+0 bacnote de 100
+0 bacnote de 50
+2 bacnote de 10
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  8 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+10
+Nu s-a putut efectua retragerea (Sold insuficient pentru a retrage asceasta suma)
+Nu s-a putut retrage
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+0
+>>> %Run mainApp.py
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Thonny\lib\ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 165
+    elif option=="0":
+       ^
+IndentationError: expected an indented block
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  900 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+770
+
+Ati primit :
+ 3 bacnote de 200
+1 bacnote de 100
+1 bacnote de 50
+2 bacnote de 10
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  130 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+130
+
+Ati primit :
+ 0 bacnote de 200
+1 bacnote de 100
+0 bacnote de 50
+3 bacnote de 10
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+670
+Nu s-a putut efectua retragerea (Sold insuficient pentru a retrage asceasta suma)
+Nu s-a putut retrage
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+0
+>>> %Run mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 104, in <module>
+    ako.moneyAdd(int(dataCard[1]))
+ValueError: invalid literal for int() with base 10: '017-05-2022  14:01\n'
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  8000 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+0
+>>> %Run mainApp.py
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Thonny\lib\ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 176
+    lines=hjkg.readlines()
+        ^
+IndentationError: expected an indented block
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  8000 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+2000
+
+Ati primit :
+ 10 bacnote de 200
+0 bacnote de 100
+0 bacnote de 50
+0 bacnote de 10
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  6000 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+4770
+Nu s-a putut efectua retragerea(Bancomat scos din functiune momentan)
+Nu s-a putut retrage
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+3
+Cati bani doriti sa depuneti?
+400
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  6400 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+0
+>>> 
+>>> %Run mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 104, in <module>
+    ako.moneyAdd(int(dataCard[1]))
+ValueError: invalid literal for int() with base 10: '6400017-05-2022  14:01\n'
+>>> %Run mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 104, in <module>
+    ako.moneyAdd(int(dataCard[1]))
+ValueError: invalid literal for int() with base 10: '6400017-05-2022  14:01\n'
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  6000 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+5555
+Nu s-a putut efectua retragerea(Bancomat scos din functiune momentan)
+Nu s-a putut retrage
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+5550
+invalid
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+5550
+Nu s-a putut efectua retragerea(Bancomat scos din functiune momentan)
+Nu s-a putut retrage
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+3550
+
+Ati primit :
+ 10 bacnote de 200
+10 bacnote de 100
+11 bacnote de 50
+0 bacnote de 10
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  2450 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+3
+Cati bani doriti sa depuneti?
+4500
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  6950 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+0
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  6950 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+6950
+
+Ati primit :
+ 12 bacnote de 200
+10 bacnote de 100
+71 bacnote de 50
+0 bacnote de 10
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 165, in <module>
+    bancomatKey.write(data.format(UPbanca[0],UPbanca[1],UPbanca[2],UPbanca[3]))
+KeyError: 0
+>>> %Run mainApp.py
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 164
+    data=(UPbanca[0],"\n",UPbanca[1],"\n",UPbanca[2],"\n",UPbanca[3]"\n")
+                                                                       ^
+SyntaxError: invalid syntax
+>>> %Run mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 95, in <module>
+    bacnote[x]=int(coin.readline())
+ValueError: invalid literal for int() with base 10: ''
+>>> %Run mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 95, in <module>
+    bacnote[x]=int(coin.readline())
+ValueError: invalid literal for int() with base 10: ''
+>>> %Run register.py
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  0 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  0 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+2
+Nu s-a putut efectua retragerea (Sold insuficient pentru a retrage asceasta suma)
+Nu s-a putut retrage
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 164, in <module>
+    data=(UPbanca[0],"\n",UPbanca[1],"\n",UPbanca[2],"\n",UPbanca[3],"\n")
+KeyError: 0
+>>> %Run mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 95, in <module>
+    bacnote[x]=int(coin.readline())
+ValueError: invalid literal for int() with base 10: ''
+>>> %Run mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 95, in <module>
+    bacnote[x]=int(coin.readline())
+ValueError: invalid literal for int() with base 10: ''
+>>> %Run mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 95, in <module>
+    bacnote[x]=int(coin.readline())
+ValueError: invalid literal for int() with base 10: ''
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+
+invalid
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  1 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+3
+Cati bani doriti sa depuneti?
+2000
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  2001 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+770
+
+Ati primit :
+ 3 bacnote de 200
+1 bacnote de 100
+1 bacnote de 50
+2 bacnote de 10
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 164, in <module>
+    data=(UPbanca[0],"\n",UPbanca[1],"\n",UPbanca[2],"\n",UPbanca[3],"\n")
+KeyError: 0
+>>> %Run mainApp.py
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 8, in <module>
+    ako=client()
+NameError: name 'client' is not defined
+>>> %Run mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 93, in <module>
+    bacnote[x]=int(coin.readline())
+ValueError: invalid literal for int() with base 10: ''
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  1231 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+1230
+
+Ati primit :
+ 6 bacnote de 200
+0 bacnote de 100
+0 bacnote de 50
+3 bacnote de 10
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 162, in <module>
+    data=str(UPbanca[0],"\n",UPbanca[1],"\n",UPbanca[2],"\n",UPbanca[3],"\n")
+KeyError: 0
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  1 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+3
+Cati bani doriti sa depuneti?
+45
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  46 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+40
+
+Ati primit :
+ 0 bacnote de 200
+0 bacnote de 100
+0 bacnote de 50
+4 bacnote de 10
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 162, in <module>
+    data=str(str(UPbanca[0])+"\n"+str(UPbanca[1])+"\n"+str(UPbanca[2])+"\n"+str(UPbanca[3])+"\n")
+KeyError: 0
+>>> %Debug mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 93, in <module>
+    bacnote[x]=int(coin.readline())
+ValueError: invalid literal for int() with base 10: ''
+>>> %Debug mainApp.py
+
+#here was a DEBUG made
+
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+ 
+
+Cati bani doriti sa retrageti?(multipli de 10)
+30
+Nu s-a putut efectua retragerea (Sold insuficient pentru a retrage asceasta suma)
+Nu s-a putut retrage
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.7.9 (bundled)
+>>> %Run mainApp.py
+se incarca datele
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\mainApp.py", line 93, in <module>
+    bacnote[x]=int(coin.readline())
+ValueError: invalid literal for int() with base 10: ''
+>>> %Run card.txt
+Traceback (most recent call last):
+  File "C:\Users\Andrew\Desktop\PythonPROJECT\bancomat\card.txt", line 1
+    Andrew Ako
+             ^
+SyntaxError: invalid syntax
+>>> %Run mainApp.py
+se incarca datele
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  6 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+3
+Cati bani doriti sa depuneti?
+7777
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  7783 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+550
+
+Ati primit :
+ 2 bacnote de 200
+1 bacnote de 100
+1 bacnote de 50
+0 bacnote de 10
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+400
+
+Ati primit :
+ 2 bacnote de 200
+0 bacnote de 100
+0 bacnote de 50
+0 bacnote de 10
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  6833 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+2
+Cati bani doriti sa retrageti?(multipli de 10)
+6830
+
+Ati primit :
+ 34 bacnote de 200
+0 bacnote de 100
+0 bacnote de 50
+3 bacnote de 10
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+1
+Aveti  3 in cont la ora actuala
+1 --> Interogare sold
+2 --> Retrage cash
+3 --> Depune cash
+Alegeti va rog operatia
+0
+>>> 
+>>> 
